@@ -9,7 +9,12 @@ All CRUD operations from the MONGO DB using Mongoose. I have used tools like Atl
 
 MAJOR ROUTES IMPLEMENTED IN THE API
 These are the screenshots showing the routes
+To create a new movie
 ![image](https://user-images.githubusercontent.com/119617848/210273151-39d415b9-a41c-45a2-8790-c99de64024f5.png)
+
+To Get a movie by id. We pass the id as query params
+![image](https://user-images.githubusercontent.com/119617848/210273327-2e2b6fc6-8a90-4ab4-a01b-668fa7da3f41.png)
+
 
 
 
