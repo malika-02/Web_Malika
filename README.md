@@ -7,6 +7,11 @@ All CRUD operations from the MONGO DB using Mongoose. I have used tools like Atl
 ![image](https://user-images.githubusercontent.com/119617848/210272828-7a112aa2-1a9c-4d54-b4cc-1f4c4eebc5b5.png)
 ![image](https://user-images.githubusercontent.com/119617848/210272854-e4593732-64fb-4c19-b5eb-71d9e47983d1.png)
 
+MAJOR ROUTES IMPLEMENTED IN THE API
+These are the screenshots showing the routes
+![image](https://user-images.githubusercontent.com/119617848/210273151-39d415b9-a41c-45a2-8790-c99de64024f5.png)
+
+
 
 
 
