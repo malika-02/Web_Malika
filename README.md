@@ -32,6 +32,7 @@ Registration Page
 UI listing all the movies.
 I have used template engine as well. I used Handlebars and also used bootstrap for creating the UI.
 ![image](https://user-images.githubusercontent.com/119617848/210279952-65e235b4-bb76-4bf5-8896-56492efacbfb.png)
+![image](https://user-images.githubusercontent.com/119617848/210279971-e6b985b6-255f-4af8-9475-be052670e5a3.png)
 
 
 
