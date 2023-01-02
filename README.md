@@ -34,6 +34,10 @@ I have used template engine as well. I used Handlebars and also used bootstrap f
 ![image](https://user-images.githubusercontent.com/119617848/210279952-65e235b4-bb76-4bf5-8896-56492efacbfb.png)
 ![image](https://user-images.githubusercontent.com/119617848/210279971-e6b985b6-255f-4af8-9475-be052670e5a3.png)
 
+The Security features that I used in my project are as JWT token and database validations
+![image](https://user-images.githubusercontent.com/119617848/210280097-9f3e4ae1-4c17-4e47-a423-783e23d4c67d.png)
+
+
 
 
 
