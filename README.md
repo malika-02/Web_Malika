@@ -40,6 +40,9 @@ Creating JWT Token
 
 ![image](https://user-images.githubusercontent.com/119617848/210280157-bb539f31-953c-445c-b06a-43438200ee50.png)
 
+![image](https://user-images.githubusercontent.com/119617848/210280191-c97e1b6b-f640-4fa3-84b4-c8aa2fd72ae9.png)
+
+
 
 
 
