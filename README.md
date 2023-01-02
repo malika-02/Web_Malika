@@ -42,6 +42,10 @@ Creating JWT Token
 
 ![image](https://user-images.githubusercontent.com/119617848/210280191-c97e1b6b-f640-4fa3-84b4-c8aa2fd72ae9.png)
 
+I deployed my project on Heroku.
+![image](https://user-images.githubusercontent.com/119617848/210280289-81788981-8989-4256-887e-b6f9beebf88b.png)
+
+
 
 
 
