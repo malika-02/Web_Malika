@@ -18,6 +18,10 @@ To Get a movie by id. We pass the id as query params
 To update an existing movie in the database
 ![image](https://user-images.githubusercontent.com/119617848/210273407-58526d3c-1989-48f4-9511-55f8d45c4be8.png)
 
+To delete a movie from database
+![image](https://user-images.githubusercontent.com/119617848/210273520-cb57de07-cd7e-4154-a0ef-3455d12d5dd4.png)
+
+
 
 
 
