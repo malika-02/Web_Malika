@@ -26,8 +26,12 @@ Creating the UI
 Login Page
 ![image](https://user-images.githubusercontent.com/119617848/210273997-62920ada-f2bb-43ea-a5dd-1eca8afed86f.png)
 
-Validations
+Registration Page
 ![image](https://user-images.githubusercontent.com/119617848/210274247-55c6fb63-98ff-494c-952b-d74fa8c3af44.png)
+
+UI listing all the movies.
+I have used handlebars 
+
 
 
 
