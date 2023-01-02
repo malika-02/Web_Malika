@@ -15,6 +15,9 @@ To create a new movie
 To Get a movie by id. We pass the id as query params
 ![image](https://user-images.githubusercontent.com/119617848/210273327-2e2b6fc6-8a90-4ab4-a01b-668fa7da3f41.png)
 
+To update an existing movie in the database
+![image](https://user-images.githubusercontent.com/119617848/210273407-58526d3c-1989-48f4-9511-55f8d45c4be8.png)
+
 
 
 
