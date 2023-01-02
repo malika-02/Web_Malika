@@ -21,6 +21,12 @@ To update an existing movie in the database
 To delete a movie from database
 ![image](https://user-images.githubusercontent.com/119617848/210273520-cb57de07-cd7e-4154-a0ef-3455d12d5dd4.png)
 
+Creating the UI
+![image](https://user-images.githubusercontent.com/119617848/210273997-62920ada-f2bb-43ea-a5dd-1eca8afed86f.png)
+
+
+
+
 
 
 
