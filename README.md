@@ -22,7 +22,15 @@ To delete a movie from database
 ![image](https://user-images.githubusercontent.com/119617848/210273520-cb57de07-cd7e-4154-a0ef-3455d12d5dd4.png)
 
 Creating the UI
+
+Login Page
 ![image](https://user-images.githubusercontent.com/119617848/210273997-62920ada-f2bb-43ea-a5dd-1eca8afed86f.png)
+
+Validations
+![image](https://user-images.githubusercontent.com/119617848/210274247-55c6fb63-98ff-494c-952b-d74fa8c3af44.png)
+
+
+
 
 
 
